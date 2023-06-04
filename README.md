@@ -3,7 +3,7 @@
 En cours de formation sur le Développement Web et Web mobile.
 
 ### Langages :
-![img_contact](.img/html5-plain.svg) HTML
+![img_html](.img/html5-plain.svg)
 - CSS (Bootstrap)
 - JS
 - PHP
