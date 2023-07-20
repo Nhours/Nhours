@@ -20,6 +20,4 @@ Actuellement en reconversion professionnelle, je suis en apprentissage dans le d
 Je suis ouvert aux contributions et aux commentaires constructifs. Si vous souhaitez contribuer à mon projet de reconversion en Développement Web et Web Mobile, n'hésitez pas à m'envoyer un message.
 
 ## Contact
-Pour toute question ou suggestion, n'hésitez pas à me contacter par email à votre.email@example.com.
-
 Merci de visiter mon profil de reconversion en Développement Web et Web Mobile ! :smiley:
